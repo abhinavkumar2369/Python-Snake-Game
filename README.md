@@ -51,16 +51,17 @@
 <!------------------------------------------------->
 
 
-## Controls
+## Controls 🎮
 - For Snake navigation use ---> Up, Down, Left, Right Keys.
 
 
 <!------------------------------------------------->
 
 
-## Game Play
+## Game Play Video 📽️
 
-[![Watch the video](https://github.com/user-attachments/assets/39dd6f98-91c0-4e24-894f-8b4e066c4b80)](https://github.com/user-attachments/assets/71307795-5982-44ae-9b31-6998bb91c1b8)
+[![Watch the video](https://github.com/user-attachments/assets/01537771-0f47-42b7-bd8c-e7c9cbe28e1e)](https://github.com/user-attachments/assets/71307795-5982-44ae-9b31-6998bb91c1b8)
+
 
 <!------------------------------------------------->
 
