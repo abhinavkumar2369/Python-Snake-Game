@@ -59,8 +59,8 @@
 
 
 ## Game Play
-https://github.com/user-attachments/assets/71307795-5982-44ae-9b31-6998bb91c1b8
 
+[![Watch the video](https://github.com/user-attachments/assets/39dd6f98-91c0-4e24-894f-8b4e066c4b80)](https://github.com/user-attachments/assets/71307795-5982-44ae-9b31-6998bb91c1b8)
 
 <!------------------------------------------------->
 
